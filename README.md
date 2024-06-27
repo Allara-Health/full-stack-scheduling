@@ -9,9 +9,9 @@ This project is a telehealth scheduling system designed to manage and optimize t
 _Backend (Node.js with Express)_	
 - Server Setup: The backend server listens on port 3001 and provides APIs to manage healthcare providers and their schedules.
 - Endpoints:
-  - GET /api/providers: Retrieve all providers.
-  - POST /api/providers: Add a new provider.
-  - GET /api/schedule: Get the appointment schedule for all providers.
+  - GET `/providers`: Retrieve all providers.
+  - POST `/providers`: Add a new provider.
+  - GET `/schedule`: Get the appointment schedule for all providers.
 
 _Frontend (React)_
 - Components: The frontend includes components to display the list of providers, add a new provider, and view the schedule.
