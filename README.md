@@ -29,6 +29,10 @@ We would like you to build upon the existing system to help our concierge team.
 - Add a “Delete” button next to each provider in the providers list
 - When the “Delete” button is clicked, remove the provider from the list and update the backend.
 3. Update UI to be more user-friendly 
-4. Implement error handling in the frontend 
+4. Implement form validations and error handling in the frontend
+
+Bonus: 
+5. Provider search and filter 
+6. Pagination
 
 Feel free to approach these in whatever order you would like, but we'd love for you to discuss your approach and any product considerations with us before you start coding!
